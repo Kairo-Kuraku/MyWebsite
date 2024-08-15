@@ -99,7 +99,6 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #ff0000;
 		background-image: linear-gradient(to top, rgba(255, 255, 255, 0.8), rgba(0, 0, 0, 0.8)), url("../../images/Me.jpg");
 		background-size: auto,
  cover;
